@@ -10,6 +10,7 @@ namespace VersieBeheer2
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
         }
     }
 }
